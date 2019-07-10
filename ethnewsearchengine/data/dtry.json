@@ -1,0 +1,40 @@
+[
+ {
+  "name": "BBC News Africa",
+  "url": [
+   "https://t.co/A6nadVKMgH",
+   "BBCAfrica"
+  ],
+  "title": "Ethiopia religious anger over US gay tour plan - BBC News",
+  "followers_count": "2455577",
+  "time": "datetime.datetime(2016, 6, 3, 20, 9, 24)",
+  "meta": [
+   "Ethiopian church groups are angry a US-based gay tourist operator plans to visit religious sites."
+  ]
+ },
+ {
+  "name": "BBC News Africa",
+  "url": [
+   "https://t.co/b4ZS3Qk8x9",
+   "BBCAfrica"
+  ],
+  "title": "Ethiopia apologises for map that erases Somalia - BBC News",
+  "followers_count": "2455577",
+  "time": "datetime.datetime(2019, 6, 3, 20, 9, 24)",
+  "meta": [
+   "It appeared on the foreign ministry website, showing its neighbour incorporated within its borders."
+  ]
+ },
+ {
+  "name": "BBC News Africa",
+  "url": [
+   "https://t.co/1BO0D9EJBh",
+   "BBCAfrica"
+  ],
+  "title": "Ex-boss of Ethiopia's notorious 'Jail Ogaden' arrested - BBC News",
+  "followers_count": "2455577",
+  "time": "datetime.datetime(2019, 6, 3, 20, 9, 24)",
+  "meta": [
+   "The man who ran a jail where suspected separatists were reportedly tortured is captured in Somalia."
+  ]
+ }]
